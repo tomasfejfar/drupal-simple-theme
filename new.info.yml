@@ -1,0 +1,6 @@
+core: 8.x
+name: New
+package: Custom
+type: theme
+libraries:
+  - new/global
